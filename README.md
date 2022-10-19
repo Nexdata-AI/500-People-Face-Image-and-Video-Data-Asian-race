@@ -1,8 +1,10 @@
 # 500-People-Face-Image-and-Video-Data-Asian-race
-https://www.datatang.ai/datasets/133
+
 
 ## Description
 500 People Face Image and Video Data (Asian race). For each subject, 12 videos and 30 images were collected. The data diversity includes face wearing glasses or not, looking up, looking down, front view, etc. This data can be used for tasks such as face recognition.
+
+For more details, please refer to the link: https://bit.ly/3DQdJUz
 
 ## Data size
 500 people, 12 videos and 30 images per person
@@ -30,3 +32,6 @@ jpg, .mov, .mp4
 
 ## Accuracy
 the accuracy of labels of face pose, head pose and gender are more than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
