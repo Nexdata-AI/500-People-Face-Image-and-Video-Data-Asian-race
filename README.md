@@ -4,7 +4,8 @@
 ## Description
 500 People Face Image and Video Data (Asian race). For each subject, 12 videos and 30 images were collected. The data diversity includes face wearing glasses or not, looking up, looking down, front view, etc. This data can be used for tasks such as face recognition.
 
-For more details, please refer to the link: https://bit.ly/3DQdJUz
+For more details, please refer to the link: https://www.nexdata.ai/datasets/133?source=Github
+
 
 ## Data size
 500 people, 12 videos and 30 images per person
