@@ -35,4 +35,4 @@ jpg, .mov, .mp4
 the accuracy of labels of face pose, head pose and gender are more than 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
